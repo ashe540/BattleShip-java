@@ -44,9 +44,10 @@ Linux: http://netcat.sourceforge.net/download.php
 
 You might need to set the directory of the netcat executable to your PATH Environmental Variables. That, or have the exec netcat file in your current directory.
 
+```
 For Windows: Start button --> Type cmd --> Run cmd
-
 For Linux: Should be easy to find somewhere.
+```
 
 #### STEP 3:
 
@@ -55,13 +56,17 @@ quotes) in a terminal will easily show you your local IP address in the case of 
 
 After we know the IP address, to connect we type on somebody else's terminal the command:
 
+```
 nc IPNUMBERGOESHERE 7777
+```
 
 For example: nc 192.168.1.153 7777
 
-In case you, the person that's running the program would like to participate in the game, you COULD use your own IP address, but you can also substitute it for localhost
+In case you, the person that's running the program would like to participate in the game, you COULD use your own IP address, but you can also substitute it for localhost.
 
+```
 nc localhost 7777
+```
 
 #### STEP 4:
 
