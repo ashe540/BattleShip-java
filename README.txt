@@ -114,6 +114,6 @@ Good luck! And happy sinking!
 
 
 -------------------------------------------------------------------------------------
-Copyright Â© 2013, Miguel Martinez / theskyfall.com
+Copyright © 2013, Miguel Martinez / theskyfall.com
 All Rights Reserved.
 -------------------------------------------------------------------------------------
