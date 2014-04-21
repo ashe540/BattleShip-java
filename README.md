@@ -1,14 +1,15 @@
 # BattleShip in Java
-## Based on classic Battleship game
+Based on classic Battleship game
 
 
-***************************     
+```
 Author: Miguel Martinez
 World Wide Web: theskyfall.com
 Report bugs to: contact@theskyfall.com
 Copyright (c) 2012-2014
 Version: v0.1 Jan 2013
-***************************
+```
+
 
 This compressed folder contains the following:
 
