@@ -3,8 +3,8 @@ Based on classic Battleship game
 
 
 ```
-Author: Miguel Martinez
-World Wide Web: theskyfall.com
+Author: Miguel Martínez López-Sáez
+Website: mike.theskyfall.com
 Report bugs to: contact@theskyfall.com
 Copyright (c) 2012-2014
 Version: v0.1 Jan 2013
@@ -26,7 +26,7 @@ In order to run the program you must either (1) import the entire project to you
 
 1) Using Eclipse:
 
-For Eclipse simply go to File --> Import , go to the "General" tab and choose: "Existing Projects into Workspace". Hit NEXT and then, for the root directory option, after clicking Browse, choose the folder inside the zip file provided, called "BattleShip". After succesfully importing, simply run the BSThread.java or SetUp.java.
+For Eclipse simply go to `File --> Import`, go to the "General" tab and choose: "Existing Projects into Workspace". Hit NEXT and then, for the root directory option, after clicking Browse, choose the folder inside the zip file provided, called "BattleShip". After successfully importing, simply run the BSThread.java or SetUp.java.
 
 2) Running the executable JAR file
 
@@ -51,8 +51,7 @@ For Linux: Should be easy to find somewhere.
 
 #### STEP 3:
 
-To connect to the computer running application that we executed in step 1 we must know the IP Address of the computer where it's running. Typing "ipconfig" (without 
-quotes) in a terminal will easily show you your local IP address in the case of playing with another player in the same Internet connection.
+To connect to the computer running application that we executed in step 1 we must know the IP Address of the computer where it's running. Typing "ipconfig" (without quotes) in a terminal will easily show you your local IP address in the case of playing with another player in the same Internet connection.
 
 After we know the IP address, to connect we type on somebody else's terminal the command:
 
@@ -76,5 +75,5 @@ Good luck! And happy sinking!
 
 
 -------
-Copyright © 2013, Miguel Martinez / theskyfall.com
+Copyright © 2013-2014, Miguel Martínez / mike.theskyfall.com
 All Rights Reserved.
