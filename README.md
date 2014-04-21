@@ -57,10 +57,10 @@ quotes) in a terminal will easily show you your local IP address in the case of 
 After we know the IP address, to connect we type on somebody else's terminal the command:
 
 ```
-nc IPNUMBERGOESHERE 7777
+nc IPADDRESSGOESHERE 7777
 ```
 
-For example: nc 192.168.1.153 7777
+For example: `nc 192.168.1.153 7777`
 
 In case you, the person that's running the program would like to participate in the game, you COULD use your own IP address, but you can also substitute it for localhost.
 
