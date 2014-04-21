@@ -39,11 +39,13 @@ For the next step you must have NetCat installed, because it's the tool we'll be
 If you don't have NetCat download it from here:
 
 Windows: http://joncraton.org/media/files/nc111nt.zip
+
 Linux: http://netcat.sourceforge.net/download.php
 
 You might need to set the directory of the netcat executable to your PATH Environmental Variables. That, or have the exec netcat file in your current directory.
 
 For Windows: Start button --> Type cmd --> Run cmd
+
 For Linux: Should be easy to find somewhere.
 
 #### STEP 3:
