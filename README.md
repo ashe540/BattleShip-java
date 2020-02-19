@@ -4,8 +4,7 @@ Based on classic Battleship game
 
 ```
 Author: Miguel Martínez López-Sáez
-Website: mike.theskyfall.com
-Report bugs to: contact@theskyfall.com
+Report bugs to: miguel.martinez.inf@gmail.com
 Copyright (c) 2012-2014
 Version: v0.1 Jan 2013
 ```
@@ -16,6 +15,17 @@ This compressed folder contains the following:
 1. Presentation and information about the project (.PDF)
 2. An executable JAR file
 3. Source code
+
+
+### SCREENSHOTS
+
+![](images/screenshot1.png)
+
+![](images/screenshot2.png)
+
+![](images/screenshot3.png)
+
+![](images/screenshot4.png)
 
 
 ### HOW TO RUN THE PROGRAM:
